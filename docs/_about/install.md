@@ -1,3 +1,4 @@
+v camera
 ---
 layout: page
 title: "Install"
